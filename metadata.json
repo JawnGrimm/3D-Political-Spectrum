@@ -1,0 +1,5 @@
+{
+  "name": "3D Political Spectrum",
+  "description": "An interactive 3D visualization of political ideologies. Explore different viewpoints by rotating the cube and click on points to get an AI-generated summary of each ideology.",
+  "requestFramePermissions": []
+}
